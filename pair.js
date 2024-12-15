@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected by MX-GΔMΞCØDΞR*
-*_🤔🤔 fuck you if yiu are seeing this message_*
+*_🤔🤔 fuck you if you are seeing this message_*
 ______________________________________
 ╔════◇
 ║ *『 WOW YOU'VE CHOSEN Vortex-X 』*
