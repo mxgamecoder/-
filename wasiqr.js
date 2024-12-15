@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_Session Connected By MX-GΔMΞCØDΞR_*
-*_🤔🤔🤔🤔🤔 fuck if you are seeing this_*
+*_🤔🤔🤔🤔🤔 fuck you if you are seeing this_*
 ______________________________________
 ╔════◇
 ║ *『AMAZING YOU'VE CHOSEN Vortex-X』*
